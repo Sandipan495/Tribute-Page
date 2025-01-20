@@ -1,0 +1,24 @@
+body{
+    background-image: url("./bg.jpg");
+    background-size: cover;
+}
+img{
+    height: 300px;
+    width: 250px;
+    border-radius: 50%;
+}
+#image{
+    height: fit-content;
+    width: fit-content;
+}
+#headings{
+    color: brown;
+    align-self: flex-end;
+}
+#head{
+    display: flex;
+    justify-content: row;
+}
+h3{
+    color: brown;
+}
