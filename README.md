@@ -23,4 +23,4 @@ This project is built using **HTML** and **CSS** to practice web development bas
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/apj-tribute-page.git
+   git clone https://github.com/Sandipan495/apj-tribute-page.git
